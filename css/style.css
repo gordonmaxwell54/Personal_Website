@@ -1,0 +1,44 @@
+body {
+background-image: url(../images/city.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.container {
+width: 75%;
+margin: auto;
+}
+h1 {
+color: #C70001;
+font-size: 50px;
+font-family: 'Yatra One' , cursive;
+text-align: center;
+height: 100px;
+}
+nav li{
+display: inline-block;
+border: 10px;
+border-color: #c21818;
+border-style: solid;
+font-size: 30px;
+margin-left: 400px;
+font-family: 'Russo One', sans-serif;
+color: #de960a;
+}
+h2 {
+color: yellow;
+font-size: 30px;
+font-family: 'Patua One', cursive;
+height: 100px;
+}
+
+p {
+color: #000000;
+font-size: 25px;
+height: 100px;
+font-family: 'Fjalla One', cursive;
+}
+img {
+width: 60%;
+height: 400px;
+margin-left: 200px;
+}
